@@ -20,4 +20,7 @@ A Collection of CTF challenges made by me.
 
 ### Junior CTF Challenges
 
-#### 
+#### JCTF
+* Tech Stack : Reactjs (frontend), Nodejs (Express backend)
+* Description: This contains 4 challenges
+* Walkthrough: All 4 challenges are beginner level.
